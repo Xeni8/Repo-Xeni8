@@ -2,7 +2,7 @@
 For Private Repositories 
 ### Hi, I'm Raphael 👋
 
-I'm an Information Technology and Data Analytics student focused on building full-stack web applications, turning raw data into interactive machine learning tools, and maintaining reliable network infrastructure.
+I'm an Information Technology student focused on building full-stack web applications, turning raw data into interactive machine learning tools, and maintaining reliable network infrastructure.
 
 ---
 
